@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: contactuicontainer
-      image: mmohit1271/contact_ui_app:latest
+      image: pradeep332/contact_ui_app:latest
       ports:
       - containerPort: 80
 ---
